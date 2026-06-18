@@ -1,0 +1,11 @@
+{
+  "name": "cainehx",
+  "url": "https://github.com/TADCFanCrew/cainehx",
+  "license": "Apache-2.0",
+  "tags": ["cross", "utility"],
+  "description": "Haxelib Caine",
+  "version": "0.1.0",
+  "releasenote": "Initial release",
+  "contributors": ["Brenninho"],
+  "classPath": "src/"
+}
